@@ -4,7 +4,7 @@ print("Digital Camera: 11101\nAlexa: 9999\nSandwich Toaster: 2195\nMicrowave Ove
 si=int(input("\n-------------------------\nEnter the number of employee: "))#taking the input of number of employee
 
 print("-------------------------\nEnter only the price of goodies distributed")
-for i in range(1,si):#taking the input of goodies that are distributed
+for i in range(0,si):#taking the input of goodies that are distributed
   ele=int(input())
   p.append(ele)#adding the entered data to the list
 a=max(p)#finding the largest number in the list entered
