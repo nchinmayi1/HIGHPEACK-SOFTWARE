@@ -1,0 +1,26 @@
+Goodies and Prices:
+Fitbit Plus: 7980
+IPods: 22349
+MI Band: 999
+Cult Pass: 2799
+Macbook Pro: 229900
+Digital Camera: 11101
+Alexa: 9999
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+Scale: 4999 
+
+-------------------------
+Enter the number of employee: 
+3
+-------------------------
+Enter only the price of goodies distributed
+4999
+9800
+229900
+-------------------------
+And the difference between the chosen goodie with highest price and the lowest price is  224901
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
